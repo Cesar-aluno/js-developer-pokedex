@@ -7,75 +7,75 @@
 }
 
 .normal {
-    background-color: #a6a877;
+    background-color: darkkhaki;
 }
 
 .grass {
-    background-color: #77c850;
+    background-color: yellowgreen;
 }
 
 .fire {
-    background-color: #ee7f30;
+    background-color: chocolate;
 }
 
 .water {
-    background-color: #678fee;
+    background-color: cornflowerblue;
 }
 
 .electric {
-    background-color: #f7cf2e;
+    background-color: gold;
 }
 
 .ice {
-    background-color: #98d5d7;
+    background-color: lightcyan;
 }
 
 .ground {
-    background-color: #dfbf69;
+    background-color: burlywood;
 }
 
 .flying {
-    background-color: #a98ff0;
+    background-color: mediumslateblue;
 }
 
 .poison {
-    background-color: #a040a0;
+    background-color: purple;
 }
 
 .fighting {
-    background-color: #bf3029;
+    background-color: brown;
 }
 
 .psychic {
-    background-color: #f65687;
+    background-color: hotpink;
 }
 
 .dark {
-    background-color: #725847;
+    background-color: sienna;
 }
 
 .rock {
-    background-color: #b8a137;
+    background-color: goldenrod;
 }
 
 .bug {
-    background-color: #a8b720;
+    background-color: olive;
 }
 
 .ghost {
-    background-color: #6e5896;
+    background-color: slateblue;
 }
 
 .steel {
-    background-color: #b9b7cf;
+    background-color: lightsteelblue;
 }
 
 .dragon {
-    background-color: #6f38f6;
+    background-color: mediumblue;
 }
 
 .fairy {
-    background-color: #f9aec7;
+    background-color: pink;
 }
 
 .pokemon {
@@ -87,7 +87,7 @@
 }
 
 .pokemon .number {
-    color: #000;
+    color: black;
     opacity: .3;
     text-align: right;
     font-size: .625rem;
@@ -95,7 +95,7 @@
 
 .pokemon .name {
     text-transform: capitalize;
-    color: #fff;
+    color: white;
     margin-bottom: .25rem;
 }
 
@@ -113,7 +113,7 @@
 }
 
 .pokemon .detail .types .type {
-    color: #fff;
+    color: white;
     padding: .25rem .5rem;
     margin: .25rem 0;
     font-size: .625rem;
@@ -140,8 +140,8 @@
     padding: .25rem .5rem;
     margin: .25rem 0;
     font-size: .625rem;
-    color: #fff;
-    background-color: #6c79db;
+    color: white;
+    background-color: mediumpurple;
     border: none;
     border-radius: 1rem;
 }
